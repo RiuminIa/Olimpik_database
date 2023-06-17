@@ -1,0 +1,42 @@
+tbody td{
+    cursor: pointer;
+}
+.olimpicRow:hover{
+    background-color: black;
+    color:white;
+}
+/* .olimpicRow0{
+    background-color: white;
+}
+.olimpicRow1{
+    background-color: rgb(122, 116, 116);
+} */
+
+
+.championTable{
+    margin: 38px;
+}
+h1{
+    text-align: center;
+}
+.superId{
+    display: none;
+}
+.loginBtn{
+    color: black;
+    width: 100%;
+    background-color: #e6dede;
+}
+#googleImg{
+    position: absolute;
+    width: 29px;
+    left: 12%;
+}
+
+.loginoutbtm{
+    width: 100%;
+    height: 39px;
+}
+#logOut{
+    cursor: pointer;
+}
